@@ -14,8 +14,9 @@ def main():
     }
 
     points = {
-        "A": 1, "B": 2, "C": 3,
-        "X": 0, "Y": 3, "Z": 6
+        "A": 1,
+        "B": 2,
+        "C": 3
     }
 
     with open("input.txt", "r", encoding="utf-8") as file:
